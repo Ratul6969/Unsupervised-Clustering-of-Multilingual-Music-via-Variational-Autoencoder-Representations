@@ -13,16 +13,6 @@ Medium Task: Hybrid (Audio+Lyrics) CNN-VAE vs. Advanced Clustering.
 
 Hard Task: Disentangled Representation Learning using Beta-VAE.
 
-## Structure
-
-project/
-├── data/               # Audio (.wav) and Lyrics (.txt)
-├── notebooks/          # Main execution notebook (exploratory.ipynb)
-├── src/                # Modular code (vae.py, dataset.py, clustering.py)
-├── results/            # Generated metrics and plots
-├── README.md           # Project documentation
-└── requirements.txt    # Dependencies
-
 
 ## Setup
 
